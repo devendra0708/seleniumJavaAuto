@@ -1,13 +1,10 @@
 package com.test.automation.elements;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import com.test.automation.base.BaseElement;
 import com.test.automation.utils.Logger;
-import com.test.automation.utils.WebDriverManager;
 
 /**
  * Button element class that extends BaseElement with button-specific functionality
